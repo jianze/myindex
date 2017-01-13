@@ -1,0 +1,2 @@
+# myindex
+my new index
