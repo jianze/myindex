@@ -10,6 +10,7 @@ var newswiper = new Swiper('.swiper-newcontainer', {
     paginationClickable: true,
     centeredSlides: true,
     autoplay: 2000,
+    loop:true,
     autoplayDisableOnInteraction: false
 });
 var qiangswiper = new Swiper('.swiper-containerqiang', {
