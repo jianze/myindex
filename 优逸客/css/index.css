@@ -129,8 +129,12 @@
     font-size: 0.1rem;
 }
 footer{
+    width: 100%;
     padding: 0.2rem 0 0.4rem 0;
     background: #F5F6FA;
+}
+footer .row{
+    margin: 0;
 }
 footer .col-xs-4{
     background: #fff;
