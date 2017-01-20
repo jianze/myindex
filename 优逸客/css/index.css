@@ -127,6 +127,9 @@
 .disan .col-xs-4 .dierbiao{
     color: #999999;
     font-size:12px;
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
 }
 footer{
     width: 100%;
