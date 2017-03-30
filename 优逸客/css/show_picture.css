@@ -1,0 +1,112 @@
+*{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.ding{
+    height: 0.9rem;
+    background: #007BE3;
+    text-align: center;
+    line-height: 0.9rem;
+}
+.img-responsive{
+    width: 100%;
+}
+.ding a{
+    font-size: 0.35rem;
+    color: #fff;
+    text-decoration: none;
+}
+.ding img{
+    width: 0.7rem;
+    display: inline-block;
+}
+.lunbo{
+    width: 100%;
+    height: auto;
+    background: #ccc;
+}
+.liebiao{
+    margin: 0;
+    padding: 0 0.24rem;
+    background: #F5F6FA;
+}
+.liebiao .row{
+    margin: 0;
+    padding: 0;
+}
+.liebiao h1{
+    font-size: 12px;
+    margin: 0.3rem 0;
+    font-weight: bold;
+}
+.liebiao h1 a{
+    color: #494747;
+    text-decoration: none;
+}
+.liebiao h1 small{
+    font-size: 12px;
+    font-weight: bold;
+}
+.liebiao h1 img{
+    display: inline-block;
+    width: auto;
+    height: 0.21rem;
+    margin: 0 0.22rem;
+}
+.gaishu{
+    background: #fff;
+    padding: 0.32rem 0.2rem;
+    margin-bottom: 0.1rem;
+}
+.gaishu h5{
+    margin: 0;
+    font-weight: bold;
+    padding-left: 0.2rem;
+    border-left:4px solid #01B5FF;
+    margin-bottom: 0.14rem;
+}
+.daduan{
+    color: #666666;
+    margin-left:0.24rem;
+    padding-top: 0.16rem;
+    border-top:1px dashed #999999;
+}
+.dierduan{
+    color: #666666;
+    margin-left:0.24rem;
+    padding-top: 0.16rem;
+}
+.touxiang{
+    width: 2.8rem;
+    border-radius: 8px;
+    float: left;
+    margin-right: 0.3rem;
+}
+.xingming{
+    font-size: 0.4rem;
+    color: #000;
+}
+.xingming small{
+    color: #01B5FF;
+}
+.zhuanye{
+    margin: 0;
+    letter-spacing: 0.2rem;
+}
+.zhuanye span{
+    font-weight: 100;
+    letter-spacing: 0;
+}
+footer{
+    background: #F5F6FA;
+    margin:0;
+    padding:0.3rem 0;
+    text-align: center;
+    color: #666666;
+}
+footer .row{
+    margin: 0;
+    padding: 0;
+}
+footer p{
+    font-size: 0.25rem;
+}

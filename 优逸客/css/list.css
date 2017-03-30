@@ -1,0 +1,183 @@
+*{
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.ding{
+    height: 0.9rem;
+    background: #007BE3;
+    text-align: center;
+    line-height: 0.9rem;
+}
+.img-responsive{
+    width: 100%;
+}
+.ding a{
+    font-size: 0.35rem;
+    color: #fff;
+    text-decoration: none;
+}
+.ding img{
+    width: 0.7rem;
+    display: inline-block;
+}
+.lunbo{
+    width: 100%;
+    height: auto;
+    background: #ccc;
+}
+.liebiao{
+    margin: 0;
+    padding: 0 0.24rem;
+    background: #F5F6FA;
+}
+.liebiao .row{
+    margin: 0;
+    padding: 0;
+}
+.liebiao h1{
+    font-size: 12px;
+    margin: 0.3rem 0;
+    font-weight: bold;
+}
+.liebiao h1 a{
+    color: #494747;
+    text-decoration: none;
+}
+.liebiao h1 small{
+    font-size: 12px;
+    font-weight: bold;
+}
+.liebiao h1 img{
+    display: inline-block;
+    width: auto;
+    height: 0.21rem;
+    margin: 0 0.22rem;
+}
+.xueyuan{
+    background: #fff;
+    padding: 0.2rem;
+    margin-bottom: 0.1rem;
+}
+.xueyuan a{
+    text-decoration: none;
+}
+.touxiang{
+    width: 1.93rem;
+    height: 1.45rem;
+    background: #C8C8C8;
+    margin-right: .31rem;
+    float: left;
+}
+.xiangqing{
+    width: 66%;
+    float: left;
+}
+.xiangqing h5{
+    font-size: 0.3rem;
+    color: #111111;
+    font-weight: bold;
+    margin-top: 0.2rem;
+    margin-bottom: 0.1rem;
+}
+.xiangqing h5 small{
+    font-size: 12px;
+    color: #444444;
+}
+.xiangqing p{
+    font-size: 0.25rem;
+    color: #444;
+    margin: 0;
+    font-weight: bold;
+}
+footer{
+    background: #F5F6FA;
+    margin:0;
+    padding:0.3rem 0;
+    text-align: center;
+    color: #666666;
+}
+footer .row{
+    margin: 0;
+    padding: 0;
+}
+footer p{
+    font-size: 0.25rem;
+}
+.yema{
+    margin: 0;
+    padding:0.2rem;
+    background: #fff;
+    line-height: .55rem;
+}
+.yema .row{
+    margin: 0;
+    padding: 0;
+}
+.zuo-box{
+    float: left;
+    width: .9rem;
+    height: .53rem;
+    border: 1px solid #999999;
+    border-radius: .26rem;
+}
+.zuo{
+    padding: 0 0.15rem;
+    margin: 0.02rem;
+    width: .81rem;
+    height: .45rem;
+    border: 1px solid #999999;
+    border-radius: .25rem;
+}
+.zuo img{
+    margin-top: 0.06rem;
+}
+.ye-box{
+    margin-left: 0.3rem;
+    float: left;
+    width: .53rem;
+    height: .53rem;
+    border: 1px solid #999999;
+    border-radius: 50%;
+}
+.ye{
+    line-height: .45rem;
+    font-size: .3rem;
+    text-align: center;
+    padding: 0 0.15rem;
+    margin: 0.02rem;
+    width: .45rem;
+    height: .45rem;
+    border: 1px solid #999999;
+    border-radius: 50%;
+}
+.tiaoye{
+    display: inline-block;
+    width: .9rem;
+    height: .53rem;
+    border: 1px solid #999999;
+    border-radius: .26rem;
+}
+.tiaoye input{
+    padding: 0 0.15rem;
+    margin: 0.02rem;
+    width: .81rem;
+    height: .45rem;
+    border: 1px solid #999999;
+    border-radius: .25rem;
+}
+.ye-boxgo{
+    display: inline-block;
+    width: .53rem;
+    height: .53rem;
+    border: 1px solid #999999;
+    border-radius: 50%;
+}
+.yego{
+    line-height: .45rem;
+    font-size: .2rem;
+    text-align: center;
+    margin: 0.02rem;
+    width: .45rem;
+    height: .45rem;
+    border: 1px solid #999999;
+    border-radius: 50%;
+}

@@ -1,0 +1,338 @@
+*{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+ul,li{
+    margin: 0;
+    padding:0;
+    list-style: none;
+}
+.img-responsive{
+    width: 100%;
+}
+.ding{
+    margin-right: 0;
+}
+.ding2{
+    padding: 0;
+}
+.dingbu{
+    height: 50px;
+    background: #F7F7F7;
+    border-bottom: 1px solid #DDDDDD;
+    padding: 7px;
+}
+.lunbo{
+    width: 100%;
+    height: auto;
+    background: #ccc;
+}
+.swiper-pagination-bullet{
+    background:#fff;
+    opacity:0.2;
+}
+.swiper-pagination-bullet-active{
+    background:#fff;
+    opacity:1;
+}
+nav{
+    height: auto;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid #EAEAEA;
+}
+.row{
+    margin: 0;
+}
+nav a span{
+    text-align: center;
+    display: block;
+    font-size: 1.4rem;
+    margin-top: 8px;
+    color: #666666;
+}
+.dao{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.toutiao{
+    padding: 1.2rem 1.5rem;
+}
+.toutiao-left{
+    padding: 0;
+    padding-right: .5rem;
+    margin-right: .5rem;
+    border-right: 1px solid #E1E1E1;
+}
+.newlunbo{
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+}
+.newlunbo a{
+    color: #666666;
+    font-size: 1.3rem;
+}
+.newlunbo a span{
+    color: #FF6666;
+}
+.toutiao-right{
+    height: 1.6rem;
+    padding:0;
+    overflow: hidden;
+}
+.swiper-newcontainer {
+    width: 100%;
+    height: 100%;
+}
+.qianggou{
+    padding:1.3rem 1.1rem;
+    border-bottom: 1px solid #EAEAEA;
+}
+.qianggou span{
+    color: #FF5555;
+    display: block;
+    font-size: 1.4rem;
+    float: left;
+}
+.qianggou a{
+    color: #222;
+    display: block;
+    font-size: 1.4rem;
+    float: right;
+}
+.xianshi{
+    float: left;
+    margin-left: 0.8rem;
+    font-size: 1rem;
+    padding-top:.2rem;
+}
+.hfs{
+    display: inline-block;
+    color: #222;
+    border: 1px solid #AAAAAA;
+    padding: 0 .3rem;
+    margin-right: 0.2rem;
+}
+.swiper-containerqiang{
+    width: auto;
+    overflow: hidden;
+    border-bottom: 1px solid #EAEAEA;
+}
+.swiper-containerqiang .col-xs-4{
+    padding:0;
+}
+.qiangpin{
+    width: 100%;
+    padding: 1rem 0;
+}
+.qiangpin a{
+    display: block;
+    width: 100%;
+    border-right: 1px solid #F1F1F1;
+}
+.qiangpin .zi-1{
+    display: block;
+    margin: .5rem .5rem 0 .5rem;
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    color: #555555;
+    font-size: 1.3rem;
+}
+.qiangpin .zi-2{
+    display: block;
+    margin: .5rem .5rem 0 .5rem;
+    color: #FF5555;
+    font-size: 1.3rem;
+    text-align: center;
+}
+.qiangpin .zi-2 span{
+    color: #aaa;
+    font-size: 1.0rem;
+    text-decoration: line-through;
+}
+.shangpin{
+    width: 100%;
+    height: auto;
+}
+.shangpin h4{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #F4F4F4;
+    text-align: center;
+    color: #666666;
+}
+.shangpin h4 span{
+    color: #CCCCCC;
+}
+.shangpin ul li{
+    padding: 1.5rem 0 .7rem;
+    text-align: center;
+    border-bottom: 1px solid #F1F1F1;
+}
+.shangpin ul li:nth-child(1n){
+    border-right: 1px solid #F1F1F1;
+}
+.shangbiao{
+    display: inline-block;
+    margin: 0;
+    overflow: hidden;
+    vertical-align: middle;
+    border:1px solid #E1E1E1;
+    border-radius: 2rem;
+    padding: .3rem .9rem .3rem .4rem;
+    color: #494949;
+    font-size: 1.3rem;
+}
+.shangbiao img{
+    max-width: 1.7rem;
+    height: auto;
+}
+.shangpin .zi-tu{
+    display: block;
+    margin: .5rem .5rem 0 .5rem;
+}
+.shangpin .zi-1{
+    display: block;
+    margin: .5rem .5rem 0 .5rem;
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    color: #555555;
+    font-size: 1.3rem;
+}
+.shangpin .zi-2{
+    display: block;
+    margin: .5rem .5rem 0 .5rem;
+    color: #FF5555;
+    font-size: 1.3rem;
+    text-align: center;
+}
+.shangpin-new{
+    width: 100%;
+    height: auto;
+}
+.shangpin-new h4{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #F4F4F4;
+    text-align: center;
+    color: #666666;
+}
+.shangpin-new h4 span{
+    color: #CCCCCC;
+}
+.shangpin-new ul{
+    background: #F4F4F4;
+}
+.shangpin-new ul li{
+    padding: 0;
+    margin-bottom: 1rem;
+    background: #fff;
+}
+.shangpin-new ul li:nth-last-child(1){
+    margin-bottom: 0;
+}
+.biaojia{
+    background: rgba(0,0,0,0.4);
+    border-radius: 5.4rem 0 0 5.4rem;
+    bottom: 2.0rem;
+    color: #FFF;
+    display: block;
+    font-size: 1.4rem;
+    font-style: normal;
+    height: 2.7rem;
+    line-height: 2.7rem;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    width: 5.4rem;
+}
+.biao-zi-1{
+    color: #222;
+    display: block;
+    font-size: 1.4rem;
+    margin-top: 1.2rem;
+    padding: 0 1.5rem;
+}
+.biao-zi-2{
+    color: #999;
+    font-size: 1.2rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    margin-top: .6rem;
+    overflow: hidden;
+    padding: 0 1.5rem;
+    padding-bottom: 1.4rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.dazibao{
+    width: 100%;
+    height: auto;
+}
+.disanlan .zi-1,.disanlan .zi-2,.disanlan .zi-3{
+    text-align: left;
+    margin: .5rem .8rem 0 .8rem;
+}
+.shangpin .zi-3{
+    display: block;
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow:ellipsis;
+    color: #999999;
+    font-size: 1.3rem;
+}
+.shouhou{
+    width: 100%;
+    height: auto;
+    padding: 1.5rem 0;
+}
+.shouhou .p1{
+    border: .1rem solid #AAA;
+    border-radius: 5.0rem;
+    color: #666;
+    display: block;
+    font-size: 1.2rem;
+    height: 3.1rem;
+    line-height: 3.1rem;
+    margin: 0 auto;
+    width: 3.1rem;
+    text-align: center;
+}
+.shouhou .p2{
+    display: block;
+    height: 1.2rem;
+    line-height: 1.2rem;
+    margin-top: .7rem;
+    text-align: center;
+}
+.dibu{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+.dibudao{
+    width: 100%;
+    border-top:1px solid #E4E4E4;
+    text-align:center;
+    position:fixed;
+    left:0;
+    bottom: 0;
+    background: #fff;
+    z-index: 9999;
+}
+.dibudao p{
+    font-size: 1rem;
+}
+.dibudao p:nth-child(1){
+    margin: 0;
+    margin-top: 0.8rem;
+    font-size: 3rem;
+}
+.bianse{
+    color: #3AB760;
+}
