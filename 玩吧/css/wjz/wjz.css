@@ -200,9 +200,14 @@
 }
 .wjz-mudi .tuijian .tuwen{
     display: flex;
+    justify-content:space-between;
+}
+.wjz-mudi .tuijian .tuwen .imgtu{
+    width:3.41rem;
+    flex:1 0 auto;
 }
 .wjz-mudi .tuijian .tuwen img{
-    width:3.41rem;
+    width:100%;
     height:2rem;
 }
 .wjz-mudi .tuijian .tuwen p{
